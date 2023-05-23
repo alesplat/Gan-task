@@ -1,1 +1,1 @@
-# Gan-task
+# GAN task + classification
